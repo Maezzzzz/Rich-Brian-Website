@@ -1,0 +1,17 @@
+.masthead {
+    width: 100%;
+    height: auto;
+    background-image: url('../assets/bg.jpg');
+    background-size: cover;
+    background-position: relative;
+    background-repeat: no-repeat;
+}
+
+.footer {
+    text-align: center;
+    color: white;
+    font-size: x-small;
+    width:100%;
+    height: auto !important;
+    box-shadow: 0 50vh 0 50vh #343a40;
+}
